@@ -1,7 +1,12 @@
 123123
 
-stash ≤‚ ‘
+stash 
 
-remote ≤‚ ‘
+remote 
 
 duoren commit test
+
+remote 
+
+web edit and commit pass
+
