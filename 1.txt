@@ -3,3 +3,5 @@
 stash ≤‚ ‘
 
 remote ≤‚ ‘
+
+duoren commit test
