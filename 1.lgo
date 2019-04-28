@@ -1,0 +1,35 @@
+* [33mcommit 1d670051f235fdb0bdd758f3b28effa2d9d8ce66[m[33m ([m[1;36mHEAD -> [m[1;32mpt1[m[33m)[m
+[31m|[m Author: zzdaota <zzdaota@gmail.com>
+[31m|[m Date:   Sun Apr 28 19:47:46 2019 +0900
+[31m|[m 
+[31m|[m     modify 1.txt 2.txt
+[31m|[m 
+* [33mcommit f30640184ec2ed473151a49cc12c61e62cc24e43[m
+[31m|[m Author: zzdaota <zzdaota@gmail.com>
+[31m|[m Date:   Sun Apr 28 19:45:02 2019 +0900
+[31m|[m 
+[31m|[m     2.txt first modification
+[31m|[m 
+* [33mcommit 83c6b957ebd7b4347c4cf39fe37e1a8ab4b98e6c[m
+[31m|[m Author: zzdaota <zzdaota@gmail.com>
+[31m|[m Date:   Sun Apr 28 14:43:15 2019 +0900
+[31m|[m 
+[31m|[m     添加2.txt
+[31m|[m 
+* [33mcommit 0c3868e6240a0959c5635cbebabbfa9a0bd2bb87[m
+[31m|[m Author: zzdaota <zzdaota@gmail.com>
+[31m|[m Date:   Sun Apr 28 14:39:25 2019 +0900
+[31m|[m 
+[31m|[m     第一次添加文件1.txt
+[31m|[m 
+* [33mcommit 79d404ef15c8b840159ae46ca19811d6ae3a29d4[m
+[31m|[m Author: zzdaota <43574633+zzdaota@users.noreply.github.com>
+[31m|[m Date:   Sun Apr 28 14:26:55 2019 +0900
+[31m|[m 
+[31m|[m     first file upload via web
+[31m|[m 
+* [33mcommit 0371c82d36b7c10602fbb4f849608cc1a6f3f75b[m
+  Author: zzdaota <43574633+zzdaota@users.noreply.github.com>
+  Date:   Sun Apr 28 14:24:56 2019 +0900
+  
+      Initial commit
